@@ -20,9 +20,30 @@ h3{
 }
 
 img{
-  height: 250px;
-  width: 250px;
+  height: 200px;
+  width: 200px;
   border: #0777B9 solid 1px;
   border-radius: 50%;
 }
 
+a{
+  height: 40px;
+  width: 70px;
+  padding: 10px;
+  text-align: center;
+  background-color: #0777B9;
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  font-size: 30px;
+  border-radius: 100px;
+}
+
+.homearrow{
+  height: 50px;
+  width: 50px;
+}
+
+.homelink{
+  background: none;
+}
