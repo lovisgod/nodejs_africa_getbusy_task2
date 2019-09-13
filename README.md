@@ -8,6 +8,7 @@ This is a simple nodejs app without express that displays my name
 
 - clone the app
 - run npm start
+- visit localhost:3000 on your browser
 - visit localhost:3000/getprofile on your browser
 # THANK YOU
 # AYOOLUWA OLOSUNDE
